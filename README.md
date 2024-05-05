@@ -1,6 +1,3 @@
-# AMP_PROJECT
+****** See my Project Given Below ******
 
-****** My Project Is Android Assistant App ******
-
-# PROJECT INTERFACE
 
